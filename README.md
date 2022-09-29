@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [D-Reddit microservices backend app](https://github.com/Jackk-Doe/D-Reddit-Microservices-backend-app)
 
-- 🌱 I’m currently learning **TensorFlow, Typer(python)**
+- 🌱 I’m currently learning **TensorFlow, Typer(python), Microservices, System Architecture-related**
 
 - 💬 Ask me about **FastAPI, Django, NodeJS, Flutter**
 
 - 📫 How to reach me **dodo-stv@hotmail.com**
 
-- ⚡ Fun fact **Love a nice system design**
+- ⚡ Fun fact **Love a nice backend system design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
