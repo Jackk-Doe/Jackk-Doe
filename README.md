@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jackk-Doe or Sengthavong Philavong</h1>
 <h3 align="center">A passionate mobile app full-stack developer from Laos</h3>
 
-- 🔭 I’m currently working on [D-Reddit microservices backend app](https://github.com/Jackk-Doe/D-Reddit-Microservices-backend-app)
+- 🔭 I’m currently working on [E-Commerce microservices backend app](https://github.com/Jackk-Doe/e-commerce-microservices-backend-app)
 
-- 🌱 I’m currently learning **TensorFlow, Typer(python), Microservices, System Architecture-related**
+- 🌱 I’m currently learning **Machine Learning, System Design, Backend, Mobile dev**
 
-- 💬 Ask me about **FastAPI, Django, NodeJS, Flutter**
+- 💬 Ask me about **FastAPI, Go, NodeJS, Flutter, System design**
 
 - 📫 How to reach me **dodo-stv@hotmail.com**
 
