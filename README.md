@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [E-Commerce microservices backend app](https://github.com/Jackk-Doe/e-commerce-microservices-backend-app)
 
-- 🌱 I’m currently learning **Machine Learning, System Design, Backend, Mobile dev**
+- 🌱 I’m currently learning **Machine Learning, System Design, Backend, DevOps, Datapipeline, Mobile dev**
 
-- 💬 Ask me about **FastAPI, Go, NodeJS, Flutter, System design**
+- 💬 Ask me about **Python, Go, NodeJS, Flutter, System design**
 
 - 📫 How to reach me **dodo-stv@hotmail.com**
 
-- ⚡ Fun fact **Love a nice system design**
+- ⚡ Fun fact : **Love a large but nice system design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
